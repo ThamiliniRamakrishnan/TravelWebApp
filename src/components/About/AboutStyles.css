@@ -1,0 +1,18 @@
+.Travel_about-container {
+margin: 4rem 6rem;
+text-align: justify;
+}
+
+.Travel_about-container h1 {
+    padding-bottom: 1rem;
+}
+
+.Travel_about-container p {
+    padding-bottom: 2rem;
+}
+
+@media screen and (max-width:850px) {
+    .Travel_about-container {
+        margin: 4rem 2rem;
+    }
+}
